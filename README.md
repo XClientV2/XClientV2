@@ -3,7 +3,7 @@
 <h1 align="center">Multi-Tools</h1>
 
 <p align="center">
-   <a href="https://t.me/redtigersupport">Telegram</a> ・ <a href="https://redtiger.shop">Website</a> ・ <a href="https://www.trustpilot.com/review/redtiger.shop">Reviews</a>
+   <a href="https://t.me/XClientsupport">Telegram</a> ・ <a href="https://XClient.shop">Website</a> ・ <a href="https://www.trustpilot.com/review/XClient.shop">Reviews</a>
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@
 <p>
    
 ```
-┌── ⚒️ - RedTiger-Tools
+┌── ⚒️ - XClient featerus 
 │   ├── Info
 │   └── Site
 │
@@ -177,8 +177,8 @@
 Or
 ```
 1 - Open a terminal.
-2 - Write "git clone https://github.com/loxy0dev/RedTiger-Tools.git"
-3 - Write "cd RedTiger-Tools"
+2 - Write "git clone https://github.com/loxy0dev/XClient-Tools.git"
+3 - Write "cd XClient-Tools"
 4 - Write "git pull"
 5 - Write "python Setup.py"
 ```
@@ -189,9 +189,9 @@ Or
 
 <p>
   
-  - RedTiger Tools has been developed solely for educational purposes.<br>
+  - XClient Tools has been developed solely for educational purposes.<br>
   - This project has been created with good intentions and is intended for personal use only.<br>
-  - By choosing to use RedTiger, you acknowledge and accept full responsibility for any consequences that may result from your actions.<br>
+  - By choosing to use XClient, you acknowledge and accept full responsibility for any consequences that may result from your actions.<br>
   - All scripts in the "<a href="https://github.com/loxy0dev/RedTiger-Tools/tree/main/Program/FileDetectedByAntivirus">Program/FileDetectedByAntivirus</a>" folder are <strong>detected by the antivirus</strong> but pose no threat to you. These are <strong>not backdoors or malware</strong>.
 <br><br>
 </p>
@@ -202,11 +202,10 @@ Or
   
   <strong>Bitcoin Adress:</strong>
   ``` 
-bc1qwdvhtdyqjfk8lwqkcj5pn44n5f758r2pprn8de
   ```
   <strong>Litecoin Adress:</strong>
   ```
-Ld9H6pvsWMS9UtjFh2xwdGH9sePtum81NN
+
   ```
 
 </p>
